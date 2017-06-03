@@ -1,0 +1,23 @@
+{
+    "name": "express-with-typescript",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.17.2",
+        "compression": "^1.6.2",
+        "express": "^4.15.3",
+        "morgan": "^1.8.2"
+    },
+    "devDependencies": {
+        "ts-loader": "^2.1.0",
+        "typescript": "^2.3.4",
+        "webpack": "^2.6.1",
+        "webpack-node-externals": "^1.6.0"
+    }
+}
