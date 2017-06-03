@@ -12,8 +12,6 @@ app.use(morgan("dev"))
 app.use(bodyParser.json());
 
 app.use((req, res, next) => {
-
-    console.log(path.join("1", "2"));
     res.send("Test");
 })
 

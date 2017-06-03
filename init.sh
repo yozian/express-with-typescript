@@ -11,6 +11,7 @@ npm install --save-dev webpack webpack-node-externals ts-loader
 # typings
 cd server
 typings install express --save
+# node default modules
 typings install env~node --global --save
 
 cd ..

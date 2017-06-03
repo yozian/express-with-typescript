@@ -5,7 +5,7 @@
 **/src/js/tpl.js
 **/dist/**
 **/upload/**/*
-
+**/build/**/*
 
 # dependencies
 node_modules
